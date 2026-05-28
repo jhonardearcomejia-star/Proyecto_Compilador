@@ -1,0 +1,17 @@
+# requirements.txt
+# El proyecto usa únicamente la librería estándar de Python 3.8+
+# No se requieren dependencias externas.
+
+# Módulos estándar utilizados:
+# - tkinter (interfaz gráfica) — incluido en Python estándar
+# - ast       (análisis sintáctico nativo)
+# - re        (expresiones regulares)
+# - json      (serialización)
+# - threading (ejecución asíncrona)
+# - io / contextlib (captura de salida)
+# - argparse  (argumentos de línea de comandos)
+# - dataclasses, enum, typing (estructuras de datos)
+
+# Si quieres instalar extras opcionales:
+# pip install autopep8      # para formateo de código
+# pip install pygments      # para resaltado de sintaxis avanzado
